@@ -221,7 +221,7 @@ The generated performance categories are based on the scoring system implemented
 
 ## 👨‍💻 Author
 
-**Utkarsh Singh**
+**Prashant Kumar Tiwari**
 
 B.Tech Computer Science  
 Data Science
